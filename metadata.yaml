@@ -1,0 +1,24 @@
+_repo: The-promised-land-b-Bible-stories-retold_72839
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shaw, Catharine
+    gutenberg_agent_id: '38947'
+    url: http://www.gutenberg.org/2009/agents/38947
+description: ''
+gutenberg_issued: '2024-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72839'
+language: en
+pgterms:marc905: 20240123105532shaw
+pgterms:marc906: '1928'
+pgterms:marc907: GB
+publication_note: '  $aUnited Kingdom :$bJohn F. Shaw & Co. Ltd., $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The promised land : $b Bible stories retold'
+url: http://www.gutenberg.org/ebooks/72839
